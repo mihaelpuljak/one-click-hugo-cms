@@ -4,9 +4,9 @@ subtitle: Simple and powerful product
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why RevisumXR?
-    text: "RevisumXR is the professional mixed reality platform for rapid production of marketeting, product showcases, retail estate, tourist showcases and new type of museums."
+    text: "RevisumXR is the professional mixed reality platform for rapid production of product, retail estate, tourist and museums tours."
 intro:
-    heading: "What we offer"
+    heading: "Product highlights"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
