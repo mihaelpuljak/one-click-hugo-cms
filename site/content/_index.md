@@ -1,7 +1,7 @@
 ---
 title: Revisum XR Framework
 subtitle: Simple and powerful product
-image: /img/interactive1_fractal1.gif
+image: /img/revisum.gif
 blurb:
   heading: Why RevisumXR?
   text: >-
