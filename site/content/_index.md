@@ -18,7 +18,7 @@ intro:
     environment. Just like in VR, User is able to explore full 360 degree remote
     scene but with still having sight of his environment. 
 products:
-  - image: img/revisum/Museum_On_Demand.PNG
+  - image: /img/calibration.jpg
     text: >-
       Museum on demand - We sell green and roasted coffee beans that are sourced
       directly from independent farmers and farm cooperatives. We’re proud to
