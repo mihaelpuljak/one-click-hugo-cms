@@ -7,10 +7,10 @@ blurb:
     text: "RevisumXR is the professional mixed reality platform for rapid production of product, retail estate, training, tourist and museums showcases."
 intro:
     heading: "Product highlights"
-    text: "Adaptable UI. - RevisumXR is auto configuring it's main UI functions for each user separately. At the start of each session, UI hologram controls are calibrated to appropriate height of the user to reach them optimally.
-    All controls are always having optimal location for user.
-    RevisumXR Port - is our patent pending solution to blend distant reality seamlessly into user environment. Just like in VR, User is able to explore full 360 degree remote scene but with still having sight of his environment.
-    "
+    text: "Adaptable UI. - RevisumXR is auto configuring it's main UI functions for each user separately. At the start of each session, UI hologram controls are calibrated to appropriate height of the user to reach them optimally. All controls are always having optimal location for user. RevisumXR Port - is our patent pending solution to blend distant reality seamlessly into user environment. Just like in VR, User is able to explore full 360 degree remote scene but with still having sight of his environment."
+intro:
+        heading: "Product highlights2"
+        text: "2Adaptable UI. - RevisumXR is auto configuring it's main UI functions for each user separately. At the start of each session, UI hologram controls are calibrated to appropriate height of the user to reach them optimally. All controls are always having optimal location for user. RevisumXR Port - is our patent pending solution to blend distant reality seamlessly into user environment. Just like in VR, User is able to explore full 360 degree remote scene but with still having sight of his environment."
 products:
     - image: img/revisum/Museum_On_Demand.PNG
       text: "Museum on demand - We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
