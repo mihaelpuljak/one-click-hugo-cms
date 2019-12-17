@@ -10,9 +10,6 @@ blurb:
 intro:
     heading: "Product highlights"
     text: "Adaptable UI. - RevisumXR is auto configuring it's main UI functions for each user separately. At the start of each session, UI hologram controls are calibrated to appropriate height of the user to reach them optimally. All controls are always having optimal location for user. RevisumXR Port - is our patent pending solution to blend distant reality seamlessly into user environment. Just like in VR, User is able to explore full 360 degree remote scene but with still having sight of his environment."
-intro:
-        heading: "Product highlights2"
-        text: "2Adaptable UI. - RevisumXR is auto configuring it's main UI functions for each user separately. At the start of each session, UI hologram controls are calibrated to appropriate height of the user to reach them optimally. All controls are always having optimal location for user. RevisumXR Port - is our patent pending solution to blend distant reality seamlessly into user environment. Just like in VR, User is able to explore full 360 degree remote scene but with still having sight of his environment."
 products:
   - image: /img/calibration.jpg
     text: >-
@@ -24,7 +21,7 @@ products:
   - image: /img/revisum/RevisumXRPortal.GIF
     text: >2-
 
-       
+
       RevisumXR Port - We offer a small, but carefully curated selection of
       brewing gear and tools for every taste and experience level. No matter if
       you roast your own beans or just bought your first french press, you’ll
@@ -42,4 +39,3 @@ values:
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-
