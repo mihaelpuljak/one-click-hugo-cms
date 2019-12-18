@@ -67,13 +67,14 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c80000;fill-opacity:1;stroke:none;"
-     x="1.0529616"
-     y="20.941326"
-     id="text3920"><tspan
+     style="font-style:normal;font-weight:normal;font-size:46.204216px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff4400;fill-opacity:1;stroke:none;stroke-width:1.15510535"
+     x="-2.2220366"
+     y="21.200161"
+     id="text3920"
+     transform="scale(0.93574344,1.068669)"><tspan
        sodipodi:role="line"
        id="tspan3918"
-       x="1.0529616"
-       y="20.941326"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#c80000;fill-opacity:1;">REVISUM</tspan></text>
+       x="-2.2220366"
+       y="21.200161"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.72253036px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ff4400;fill-opacity:1;stroke-width:1.15510535">REVISUM</tspan></text>
 </svg>
