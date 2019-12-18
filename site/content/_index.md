@@ -6,12 +6,15 @@ blurb:
   heading: Why RevisumXR?
   text: >-
     RevisumXR is the disruptive mixed reality platform for rapid production of
-    innovative product, retail estate, training, tourist and museums showcases.
+    innovative showcases - such as product, retail estate, training, tourist and
+    museums showcases.
 intro:
   heading: 'Use cases '
   text: >-
-    are some of the features that should serve common goal - help you doing your
-    business
+    Cut the costs of training your workforce.  Cut the travel costs of retail
+    estate agents. Make education materials in an immersive and efficient way.
+    Create new type of interactive and immersive museums - where each visitor
+    can chose museum setup even before entering physical space.
 products:
   - image: /img/calibration.jpg
     text: >-
