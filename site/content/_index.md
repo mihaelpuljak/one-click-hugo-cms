@@ -5,18 +5,18 @@ image: /img/capture2.jpg
 blurb:
   heading: Why RevisumXR?
   text: >-
-    RevisumXR is the professional mixed reality platform for rapid production of
-    product, retail estate, training, tourist and museums showcases.
+    RevisumXR is the disruptive mixed reality platform for rapid production of
+    innovative product, retail estate, training, tourist and museums showcases.
 intro:
-  heading: 'Product highlights:'
-  text: >-
-    Adaptable UI. - RevisumXR is auto configuring it's main UI functions for
-    each user separately. At the start of each session, UI hologram controls are
-    calibrated to appropriate height of the user to reach them optimally. All
-    controls are always having optimal location for user. RevisumXR Port - is
-    our patent pending solution to blend distant reality seamlessly into user
-    environment. Just like in VR, User is able to explore full 360 degree remote
-    scene but with still having sight of his environment. 
+  heading: 'Use cases '
+  text: >
+    Adaptable UI configuring it's main UI functions for each user separately. At
+    the start of each session, UI hologram controls are calibrated to
+    appropriate height of the user to reach them optimally. All controls are
+    always having optimal location for user. RevisumXR Port - is our patent
+    pending solution to blend distant reality seamlessly into user environment.
+    Just like in VR, User is able to explore full 360 degree remote scene but
+    without losing sight of his environment like in VR.
 products:
   - image: /img/calibration.jpg
     text: >-
@@ -39,7 +39,7 @@ products:
       matter if you roast your own beans or just bought your first french press,
       you’ll find a gadget to fall in love with in our shop.
 values:
-  heading: Personalized UI
+  heading: Product highlights
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
