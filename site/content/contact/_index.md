@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/revisum1.svg"
+logo: "/img/logorevisum.svg"
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
