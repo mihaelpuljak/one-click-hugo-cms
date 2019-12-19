@@ -1,9 +1,9 @@
 ---
 title: Product features
-image: /img/about-jumbotron.jpg
+image: /img/capture12u.jpg
 values:
   - heading: 'Revisum PortXR '
-    imageUrl: /img/capture12.jpg
+    imageUrl: /img/capture14.jpg
     text: >
       Revisum PortXR  - is our patent pending solution to blend distant reality
       seamlessly into user environment.  User is able to explore full 360 degree
@@ -11,13 +11,12 @@ values:
       many teleports as needed for your tour. Observe mars rovers in daily
       operations, write something on Mars sand using your fingertip. Look around
       Huygens landing site in Titan and explore methan lakes. 
-  - heading: Single origin
-    imageUrl: /img/about-single-origin.jpg
+  - heading: Eyesight driven controls
+    imageUrl: /img/revisumxreyesight1.gif
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+      Eye tracking controls such as configurable eye tracking progress bars
+      allowing seamless navigation for the users, without any need for
+      controller. 
   - heading: Sustainable farming
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
