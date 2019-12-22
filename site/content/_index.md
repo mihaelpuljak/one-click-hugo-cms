@@ -1,9 +1,9 @@
 ---
 title: Revisum XR Framework
-subtitle: Simple and powerful product
+subtitle: Rapid XR showcases
 image: /img/capture2.jpg
 blurb:
-  heading: Why RevisumXR
+  heading: What is RevisumXR?
   text: >-
     RevisumXR is the disruptive mixed reality platform for rapid production of
     innovative showcases. Get awesome digital reality into good old user
@@ -14,35 +14,28 @@ intro:
   text: >-
     Cut the costs of training your workforce.  Cut the travel costs of retail
     estate agents. Make education materials in an immersive and efficient way.
-    Create new type of interactive and immersive museums - where each visitor
-    can chose museum setup even before entering physical space.
+    Create new type of interactive and immersive museums - Be own museum
+    curator, enable visitors to chose museum before visiting.
 products:
   - image: /img/calibration.jpg
     text: >-
-      Museum on demand - test We sell green and roasted coffee beans that are
-      sourced directly from independent farmers and farm cooperatives. We’re
-      proud to offer a variety of coffee beans grown with great care for the
-      environment and local communities. Check our post or contact us directly
-      for current availability.
+      Museum on demand - Create digital museums allowing visitors to select
+      museum setup prior visit. Make 1:N item mapping on physical space.
+      Holograms, Hand triggered item scaling, rotation. Teleports into slices of
+      distant digital realms. 
   - image: /img/revisum/RevisumXRPortal.GIF
     text: >2-
 
        
-      RevisumXR Port - We offer a small, but carefully curated selection of
-      brewing gear and tools for every taste and experience level. No matter if
-      you roast your own beans or just bought your first french press, you’ll
-      find a gadget to fall in love with in our shop.
+      RevisumXR Port - Our mixed reality teleport is inovative solution which
+      allows user wearing mixed reality glasses to observe distant scene in full
+      360 without losing contact with existing environment. 
   - image: /img/calibration.jpg
     text: >-
-      RevisumXR test gear and tools for every taste and experience level. No
-      matter if you roast your own beans or just bought your first french press,
-      you’ll find a gadget to fall in love with in our shop.
+      RevisumXR Interactive installations: Let users explore benefits of new
+      medium: Make them 
 values:
   heading: Explore product features
-  text: >-
-    RevisumXR 360 portal for remote viewing, Auto optimized UI, eye tracking
-    hints, heatmap analytics, hand tracking buttons, spatial control
-    optimization, persistable items, room navigation with eye trigered controls,
-    multiple item sets selectable with eye tracking, and more
+  text: Click to explore extended list of product features.
 ---
 
