@@ -1,6 +1,6 @@
 ---
 title: Revisum XR Framework
-subtitle: Rapid XR showcases
+subtitle: Innovative and rapid XR showcases
 image: /img/capture2.jpg
 blurb:
   heading: Welcome!
