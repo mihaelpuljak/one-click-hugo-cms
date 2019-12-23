@@ -3,7 +3,7 @@ title: Revisum XR Framework
 subtitle: Rapid XR showcases
 image: /img/capture2.jpg
 blurb:
-  heading: What is RevisumXR?
+  heading: Welcome!
   text: >-
     RevisumXR is the disruptive mixed reality platform for rapid production of
     innovative showcases. Get awesome digital reality into good old user
@@ -17,20 +17,20 @@ intro:
     Create new type of interactive and immersive museums - Be own museum
     curator, enable visitors to chose museum before visiting.
 products:
-  - image: /img/calibration.jpg
+  - image: /img/capture19.jpg
     text: >-
       Museum on demand - Create digital museums allowing visitors to select
       museum setup prior visit. Make 1:N item mapping on physical space.
       Holograms, Hand triggered item scaling, rotation. Teleports into slices of
       distant digital realms. 
-  - image: /img/revisum/RevisumXRPortal.GIF
+  - image: /img/capture16.jpg
     text: >2-
 
        
       RevisumXR Port - Our mixed reality teleport is inovative solution which
       allows user wearing mixed reality glasses to observe distant scene in full
       360 without losing contact with existing environment. 
-  - image: /img/calibration.jpg
+  - image: /img/capture22.jpg
     text: >-
       RevisumXR Interactive installations: Let users explore benefits of new
       medium: Make them 
