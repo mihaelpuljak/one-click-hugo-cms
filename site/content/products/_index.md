@@ -1,13 +1,8 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+title: Use cases
+image: /img/capture12u.jpg
+heading: Museum on demand.
+description: 'Create new type of museum, museum on demand. '
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -37,12 +32,14 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Museum on demand.
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Create new type of museum, museum on demand. By using mixed reality devices
+    in museum environments we replace physical collection of artifacts with
+    holographic projections. Dynamic update of projected museum artifacts and
+    multi user overview of projections. Let the user pre-select museum exhibit
+    even before visiting museum. His collection will wait upon arrival into
+    physical museum space. 
 main:
   heading: Great coffee with no compromises
   description: >
@@ -98,5 +95,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
