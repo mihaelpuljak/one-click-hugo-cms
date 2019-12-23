@@ -41,21 +41,22 @@ intro:
     even before visiting museum. His collection will wait upon arrival into
     physical museum space. 
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Product showcase
+  description: >-
+    Create your own product showcase and retail experience in Mixed reality
+    using the Revisum XR platform.  If you want to present a new line of
+    products, it is possible to create reports where each user spent most of the
+    time (per product and per point of interest) Points of interests are areas
+    that are predefined for each product.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: 'A close-up '
+    image: /img/ml_20191223_16.29.36.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/ml_20191223_16.35.43.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/capture14.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -65,13 +66,13 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/ml_20191223_16.38.47.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Become our early partner!
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We left POC project phase and started go-to-market. We are looking for
+    partners - If you want to cooperate with us, or have proposal for
+    cooperation feel free to let us know. We answer every email in 24 hours. 
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
