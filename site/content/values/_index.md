@@ -17,13 +17,13 @@ values:
       Eye tracking controls such as configurable eye tracking progress bars
       allowing seamless navigation for the users, without any need for
       controller. 
-  - heading: Sustainable farming
-    imageUrl: /img/about-sustainable-farming.jpg
+  - heading: Personalized UI
+    imageUrl: /img/revisum_interact.gif
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
+      Intelligent UI that adapts to each individual user. Beside being optimized
+      for each user height (making sure your kids will easily reach all item
+      controls) holographic glass panels and hand triggered buttons rotate for
+      optimal angle for best UI experience.
   - heading: Direct sourcing
     imageUrl: /img/about-direct-sourcing.jpg
     text: >
