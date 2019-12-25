@@ -41,5 +41,10 @@ values:
       NASA probes. You can use your hand to touch Mars ground, feel free to
       write something! Hear Mars winds provided by recordings from Insight NASA
       probe on Mars.
+  - heading: Eyesight triggered hints
+    imageUrl: /img/ml_20191223_16.29.49.jpg
+    text: >-
+      Keeping user eyes on predefined areas on interest on each item triggers
+      context hint in form the glass panel
 ---
 
