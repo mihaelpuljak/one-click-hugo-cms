@@ -32,12 +32,14 @@ values:
       System then persist items allowing user to restore item sets and navigate
       content automatically. Single mode provides all showcase items on the
       single item holder like slideshow mode. 
-  - heading: Reinvest profits
-    imageUrl: /img/about-reinvest-profits.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+  - heading: 'Mixed reality '
+    imageUrl: /img/capture14.jpg
+    text: >-
+      System is providing functions to explore mixed reality medium. Allows user
+      to explore full 360 remote scene like Gusev Crater on Mars in comfort of
+      your room environment. Location is reconstructed using data gathered from
+      NASA probes. You can use your hand to touch Mars ground, feel free to
+      write something! Hear Mars winds provided by recordings from Insight NASA
+      probe on Mars.
 ---
 
