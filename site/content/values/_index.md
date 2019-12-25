@@ -24,13 +24,14 @@ values:
       for each user height (making sure your kids will easily reach all item
       controls) holographic glass panels and hand triggered buttons rotate for
       optimal angle for best UI experience.
-  - heading: Direct sourcing
-    imageUrl: /img/about-direct-sourcing.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+  - heading: Single and multinode modes
+    imageUrl: /img/capture13.jpg
+    text: >-
+      Single or multi point presentations - The system provides two modes -
+      multi node mode allowing user to place item holders in his environment.
+      System then persist items allowing user to restore item sets and navigate
+      content automatically. Single mode provides all showcase items on the
+      single item holder like slideshow mode. 
   - heading: Reinvest profits
     imageUrl: /img/about-reinvest-profits.jpg
     text: >
