@@ -1,64 +1,62 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+title: Use cases
+image: /img/capture12u.jpg
+heading: Museum on demand.
+description: 'Create new type of museum, museum on demand. '
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/ml_20191223_16.29.19.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/ml_20191223_16.38.50.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/ml_20191223_16.31.42.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/ml_20191223_16.41.21.jpg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Museum on demand.
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Create new type of museum, museum on demand. By using mixed reality devices
+    in museum environments we replace physical collection of artifacts with
+    holographic projections. Dynamic update of projected museum artifacts and
+    multi user overview of projections. Let the user pre-select museum exhibit
+    even before visiting museum. His collection will wait upon arrival into
+    physical museum space. 
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Product showcase
+  description: >-
+    Create your own product showcase and retail experience in Mixed reality
+    using the Revisum XR platform.  If you want to present a new line of
+    products, it is possible to create reports where each user spent most of the
+    time (per product and per point of interest) Points of interests are areas
+    that are predefined for each product.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: 'A close-up '
+    image: /img/ml_20191223_16.29.36.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/ml_20191223_16.31.42.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/ml_20191223_16.38.50.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -68,13 +66,13 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/capture2.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Become our early partner!
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We left POC project phase and started go-to-market. We are looking for
+    partners - If you want to cooperate with us, or have proposal for
+    cooperation feel free to let us know. We answer every email in 24 hours. 
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -98,5 +96,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
