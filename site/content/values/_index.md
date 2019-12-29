@@ -33,14 +33,15 @@ values:
       content automatically. Single mode provides all showcase items on the
       single item holder like slideshow mode. 
   - heading: 'Mixed reality '
-    imageUrl: /img/capture14.jpg
+    imageUrl: /img/snowout.jpg
     text: >-
-      System is providing functions to explore mixed reality medium. Allows user
-      to explore full 360 remote scene like Gusev Crater on Mars in comfort of
-      your room environment. Location is reconstructed using data gathered from
-      NASA probes. You can use your hand to touch Mars ground, feel free to
-      write something! Hear Mars winds provided by recordings from Insight NASA
-      probe on Mars.
+      Mixed reality as it meant to be. Explore glaciers paths with Revisum Port
+      providing slice of the distant reality. Don't get  surprised with few
+      flurries find it's way right into your own reality. Explore full 360
+      remote Gusev Crater on Mars using data gathered from NASA probes. Use
+      hands to write something on the Mars ground, hear original Mars winds
+      recorded by Insight NASA probe currently on Mars. Or explore top of the
+      mountain near the Adriatic coast.  
   - heading: Eyesight triggered hints
     imageUrl: /img/ml_20191223_16.29.49.jpg
     text: >-
