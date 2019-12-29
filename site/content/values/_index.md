@@ -3,20 +3,19 @@ title: Product features
 image: /img/capture12u.jpg
 values:
   - heading: 'Revisum PortXR '
-    imageUrl: /img/capture14.jpg
+    imageUrl: /img/port.gif
     text: >
       Revisum PortXR  - is our patent pending solution to blend distant reality
-      seamlessly into user environment.  User is able to explore full 360 degree
-      remote scene without losing sight of his environment like in VR. Drop as
-      many teleports as needed for your tour. Observe mars rovers in daily
-      operations, write something on Mars sand using your fingertip. Look around
-      Huygens landing site in Titan and explore methan lakes. 
+      seamlessly into user environment. Explore full 360 degree remote scene
+      without losing sight of environment. Drop as many teleports as needed for
+      your tour. Observe Mars rovers in daily operations, write something on the
+      ground using your fingertip. Look around Huygens landing site in Titan.
+      Explore methane lakes, or check the view from the top of the mountains. 
   - heading: Eyesight driven controls
     imageUrl: /img/revisumxreyesight1.gif
     text: >
       Eye tracking controls such as configurable eye tracking progress bars
-      allowing seamless navigation for the users, without any need for
-      controller. 
+      allowing seamless navigation for the users, without need for controllers. 
   - heading: Personalized UI
     imageUrl: /img/revisum_interact.gif
     text: >
@@ -27,11 +26,11 @@ values:
   - heading: Single and multinode modes
     imageUrl: /img/capture13.jpg
     text: >-
-      Single or multi point presentations - The system provides two modes -
-      multi node mode allowing user to place item holders in his environment.
-      System then persist items allowing user to restore item sets and navigate
+      Single or multi point presentations - Multi node mode is allowing user to
+      configure his environment by placing item holders. System then persist
+      stored holders in the cloud and users to restore item sets and navigate
       content automatically. Single mode provides all showcase items on the
-      single item holder like slideshow mode. 
+      single place with items changing like slideshow. 
   - heading: 'Mixed reality '
     imageUrl: /img/snowout.jpg
     text: >-
