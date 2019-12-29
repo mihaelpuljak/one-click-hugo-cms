@@ -2,11 +2,11 @@
 title: Product features
 image: /img/capture12u.jpg
 values:
-  - heading: 'Revisum PortXR '
+  - heading: Revisum Port
     imageUrl: /img/port.gif
     text: >
-      Revisum PortXR  - is our patent pending solution to blend distant reality
-      seamlessly into user environment. Explore full 360 degree remote scene
+      Revisum Port - is our innovative solution to blend distant reality
+      seamlessly into the user environment. Explore full 360 degree remote scene
       without losing sight of environment. Drop as many teleports as needed for
       your tour. Observe Mars rovers in daily operations, write something on the
       ground using your fingertip. Look around Huygens landing site in Titan.
@@ -34,13 +34,8 @@ values:
   - heading: 'Mixed reality '
     imageUrl: /img/snowout.jpg
     text: >-
-      Mixed reality as it meant to be. Explore glaciers paths with Revisum Port
-      providing slice of the distant reality. Don't get  surprised with few
-      flurries find it's way right into your own reality. Explore full 360
-      remote Gusev Crater on Mars using data gathered from NASA probes. Use
-      hands to write something on the Mars ground, hear original Mars winds
-      recorded by Insight NASA probe currently on Mars. Or explore top of the
-      mountain near the Adriatic coast.  
+      Explore glaciers in full 360 view in the middle of your room Some of the
+      flurries find it's way right into your own reality. 
   - heading: Eyesight triggered hints
     imageUrl: /img/hints.gif
     text: >-
