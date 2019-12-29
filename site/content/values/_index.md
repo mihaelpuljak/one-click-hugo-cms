@@ -43,7 +43,7 @@ values:
       recorded by Insight NASA probe currently on Mars. Or explore top of the
       mountain near the Adriatic coast.  
   - heading: Eyesight triggered hints
-    imageUrl: /img/ml_20191223_16.29.49.jpg
+    imageUrl: /img/hints.gif
     text: >-
       Keeping user eyes on predefined areas on interest on each item triggers
       context hint in form the glass panel
