@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1450"
-     inkscape:window-height="711"
+     inkscape:window-width="2092"
+     inkscape:window-height="1098"
      id="namedview3914"
      showgrid="false"
      inkscape:snap-text-baseline="true"
-     inkscape:zoom="3.5963303"
-     inkscape:cx="116.5556"
-     inkscape:cy="16.508704"
-     inkscape:window-x="2052"
-     inkscape:window-y="763"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="105.60154"
+     inkscape:cy="-9.4807982"
+     inkscape:window-x="992"
+     inkscape:window-y="563"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg3912" />
   <title
@@ -74,14 +74,28 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:47.87815094px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff4400;fill-opacity:1;stroke:none;stroke-width:1.19695377"
-     x="-1.2807189"
-     y="25.327326"
+     style="font-style:normal;font-weight:normal;font-size:38.86621857px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff4400;fill-opacity:1;stroke:none;stroke-width:0.97165543"
+     x="33.854641"
+     y="22.541454"
      id="text3920"
-     transform="scale(1.0358839,0.96535913)"><tspan
+     transform="scale(0.95880073,1.0429696)"><tspan
        sodipodi:role="line"
        id="tspan3918"
-       x="-1.2807189"
-       y="25.327326"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:28.72689056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ff4400;fill-opacity:1;stroke-width:1.19695377">REVISUM</tspan></text>
+       x="33.854641"
+       y="22.541454"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.31973076px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#ff4400;fill-opacity:1;stroke-width:0.97165543">REVISUM</tspan></text>
+  <ellipse
+     style="fill:#ff4400;fill-opacity:1"
+     id="path875"
+     cx="23.875"
+     cy="14.484375"
+     rx="5.59375"
+     ry="5.578125" />
+  <ellipse
+     style="fill:#ff4400;fill-opacity:1"
+     id="path875-1"
+     cx="8.6875"
+     cy="14.40625"
+     rx="5.59375"
+     ry="5.578125" />
 </svg>
