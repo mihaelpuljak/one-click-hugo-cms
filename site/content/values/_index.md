@@ -2,22 +2,22 @@
 title: Product features
 image: /img/capture12u.jpg
 values:
-  - heading: 'Revisum PortXR '
-    imageUrl: /img/capture14.jpg
+  - heading: Revisum Port
+    imageUrl: /img/port.gif
     text: >
-      Revisum PortXR  - is our patent pending solution to blend distant reality
-      seamlessly into user environment.  User is able to explore full 360 degree
-      remote scene without losing sight of his environment like in VR. Drop as
-      many teleports as needed for your tour. Observe mars rovers in daily
-      operations, write something on Mars sand using your fingertip. Look around
-      Huygens landing site in Titan and explore methan lakes. 
+      Revisum Port - is our innovative solution to blend distant reality
+      seamlessly into the user environment. Explore full 360 degree remote scene
+      without losing sight of environment. Observe Mars rovers in daily
+      operations, write something on the ground using your fingertip. Look
+      around Huygens landing site in Titan. Explore methane lakes, or check the
+      view from the top of the mountains. 
   - heading: Eyesight driven controls
     imageUrl: /img/revisumxreyesight1.gif
     text: >
       Eye tracking controls such as configurable eye tracking progress bars
-      allowing seamless navigation for the users, without any need for
-      controller. 
-  - heading: Personalized UI
+      allow seamless navigation for the users, without any need for
+      controllers. 
+  - heading: Personalized adaptable UI
     imageUrl: /img/revisum_interact.gif
     text: >
       Intelligent UI that adapts to each individual user. Beside being optimized
@@ -27,24 +27,23 @@ values:
   - heading: Single and multinode modes
     imageUrl: /img/capture13.jpg
     text: >-
-      Single or multi point presentations - The system provides two modes -
-      multi node mode allowing user to place item holders in his environment.
-      System then persist items allowing user to restore item sets and navigate
-      content automatically. Single mode provides all showcase items on the
-      single item holder like slideshow mode. 
+      Single or multi point presentations - Single mode provides all showcase
+      items changing like slideshow on the same item holder. Multi node mode
+      allows user to pre-configure environment by placing item holders. System
+      then persist holders in the cloud. 
   - heading: 'Mixed reality '
-    imageUrl: /img/capture14.jpg
+    imageUrl: /img/snowout.jpg
     text: >-
-      System is providing functions to explore mixed reality medium. Allows user
-      to explore full 360 remote scene like Gusev Crater on Mars in comfort of
-      your room environment. Location is reconstructed using data gathered from
-      NASA probes. You can use your hand to touch Mars ground, feel free to
-      write something! Hear Mars winds provided by recordings from Insight NASA
-      probe on Mars.
+      With Revisum XR we made sure that digital and physical realm understand
+      each other and coexist in new and exciting way. Explore glaciers in full
+      360 view in the middle of your room. Some of the flurries might find way
+      right into your own reality. 
   - heading: Eyesight triggered hints
-    imageUrl: /img/ml_20191223_16.29.49.jpg
+    imageUrl: /img/hints.gif
     text: >-
       Keeping user eyes on predefined areas on interest on each item triggers
-      context hint in form the glass panel
+      context hint in form of the glass panel. It is possible to edit and
+      configure hint properties  such as location, hint delay, duration and
+      other properties.
 ---
 
