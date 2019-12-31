@@ -58,42 +58,22 @@ main:
     alt: Coffee beans
     image: /img/ml_20191223_16.38.50.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: .
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Storytelling will be changed everywhere, at work, school and in our living
+      rooms.
+  - author: .
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Thanks to Mixed Reality, students can touch and manipulate objects
+      generating a greater understanding of them.
 full_image: /img/capture2.jpg
 pricing:
   heading: Become our early partner!
   description: >-
-    We left POC project phase and started go-to-market. We are looking for
-    partners - If you want to cooperate with us, or have proposal for
-    cooperation feel free to let us know. We answer every email in 24 hours. 
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+    We left POC project phase and just started out long go-to-market. We are
+    looking for partners - If you want to cooperate with us, or have proposal
+    for cooperation feel free to let us know. We answer every email in 24
+    hours. 
+  plans: []
 ---
 
