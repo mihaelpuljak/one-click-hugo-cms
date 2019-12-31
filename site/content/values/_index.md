@@ -45,5 +45,10 @@ values:
       context hint in form of the glass panel. It is possible to edit and
       configure hint properties  such as location, hint delay, duration and
       other properties.
+  - heading: Eye tracking analytics
+    imageUrl: /img/hint_analytics.png
+    text: >-
+      Advanced analytics may provide areas of the models that attract most
+      interest from the users.
 ---
 
