@@ -4,13 +4,10 @@ image: /img/capture12u.jpg
 values:
   - heading: Revisum Port
     imageUrl: /img/port.gif
-    text: >
-      Revisum Port - is our innovative solution to blend distant reality
-      seamlessly into the user environment. Explore full 360 degree remote scene
-      without losing sight of environment. Observe Mars rovers in daily
-      operations, write something on the ground using your fingertip. Look
-      around Huygens landing site in Titan. Explore methane lakes, or check the
-      view from the top of the mountains. 
+    text: >-
+      Revisum Port - Innovative solution to blend distant reality seamlessly
+      into the user environment. It allows full 360 degree remote scene
+      exploration, optimized for next generation of mixed reality glasses. 
   - heading: Eyesight driven controls
     imageUrl: /img/revisumxreyesight1.gif
     text: >
@@ -50,5 +47,11 @@ values:
     text: >-
       Advanced analytics may provide areas of the models that attract most
       interest from the users.
+  - heading: Multi-user showcases
+    imageUrl: /img/capture2.jpg
+    text: >-
+      Platform is supporting multi-user scenarios. It is supporting more
+      different showcases shown in the same physical space for different users,
+      or same the showcase shared for multiple users.
 ---
 
