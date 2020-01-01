@@ -28,7 +28,7 @@ values:
       items changing like slideshow on the same item holder. Multi node mode
       allows user to pre-configure environment by placing item holders. System
       then persist holders in the cloud. 
-  - heading: 'Mixed reality '
+  - heading: Complete Mixed reality experience
     imageUrl: /img/snowout.jpg
     text: >-
       With Revisum XR we made sure that digital and physical realm understand
