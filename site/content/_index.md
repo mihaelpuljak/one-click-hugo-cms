@@ -5,10 +5,10 @@ image: /img/capture2.jpg
 blurb:
   heading: Welcome!
   text: >-
-    RevisumXR is the disruptive mixed reality platform for rapid production of
-    innovative showcases. Get digital reality into good old user environment -
-    and quickly build fun product, retail estate, training, tourist and museums
-    showcases. 
+    RevisumXR is the disruptive mixed reality platform for rapid production and
+    distribution of innovative showcases. Get digital reality into good old user
+    environment - and quickly build fun product, retail estate, training,
+    tourist and museums showcases. 
 intro:
   heading: Why Revisum XR?
   text: >-
@@ -32,10 +32,9 @@ products:
       360 without losing contact with existing environment. 
   - image: /img/plants2.jpg
     text: >-
-      RevisumXR Interactive installations: Let users explore benefits of new
-      medium. Make impact on users with Adaptable UI that takes care about each
-      user, aligning main UI functions with user's height and taking optimal
-      position as user explores space.
+      RevisumXR Interactive installations: Make impact on users with Adaptable
+      UI that takes care about each user, aligning main UI functions with user's
+      height and taking optimal position as user explores space.
 values:
   heading: Explore product features
   text: Click to explore extended list of product features.
