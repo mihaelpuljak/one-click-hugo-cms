@@ -1,30 +1,41 @@
 ---
 title: Use cases
 image: /img/capture12u.jpg
-heading: Museum on demand.
+heading: Mixed reality XR Innovative solution
 description: 'Create new type of museum, museum on demand. '
 intro:
   blurbs:
     - image: /img/ml_20191223_16.29.19.jpg
-      text: |
-        .
+      text: >-
+        Education - Make own classrooms by uploading and editing education
+        content. Edit descriptions, eye triggered hints, add sounds, configure
+        item rotation, scaling and texts. Set Item collections, and order of
+        appearance in the physical space. Use analytics to analyse interest from
+        your students.
     - image: /img/ml_20191223_16.38.50.jpg
-      text: .
+      text: >-
+        Real Estate - Cut the travel costs of retail estate agents with Mixed
+        reality real estate presentation. Touch one of the rooms on the floor
+        plan and get full 360 3D view through the Revisum port.
     - image: /img/ml_20191223_16.41.21.jpg
-      text: .
+      text: >-
+        Museum on Demand - Create a new type of museum, museum on demand. Be own
+        museum curator. Select museum exhibit before visiting museum. selected
+        collection will wait your arrival in the physical museum space.
     - image: /img/glacier.jpg
-      text: .
+      text: >-
+        Product feedback research - Create quick product research with eye
+        tracking report providing points of interest and user attention
+        analytics.
     - image: /img/ml_20191223_16.31.42.jpg
-      text: |
-        .
-  heading: Museum on demand.
-  description: >
-    Create new type of museum, museum on demand. By using mixed reality devices
-    in museum environments we replace physical collection of artifacts with
-    holographic projections. Dynamic update of projected museum artifacts and
-    multi user overview of projections. Let the user pre-select museum exhibit
-    even before visiting museum. His collection will wait upon arrival into
-    physical museum space. 
+      text: >-
+        Tourism - Create innovative virtual tour blending distant reality
+        seamlessly into the physical environment, allowing full 360 3D remote
+        scene exploration, optimized for the mixed reality glasses. 
+  heading: Create and deploy.
+  description: |-
+
+    Create innovative showcases in Mixed reality using the Revisum XR platform.
 main:
   heading: Product showcase
   description: >-
@@ -53,12 +64,11 @@ testimonials:
       generating a greater understanding of them.
 full_image: /img/capture2.jpg
 pricing:
-  heading: Become our early partner!
+  heading: Interested? Contact us!
   description: >-
-    We left POC project phase and just started out long go-to-market. We are
-    looking for partners - If you want to cooperate with us, or have proposal
-    for cooperation feel free to let us know. We answer every email in 24
-    hours. 
+    We left POC project phase and just hit long go-to-market road. We are
+    looking for supporters and partners - feel free to contact us. We answer
+    every email in 24 hours.
   plans: []
 ---
 
