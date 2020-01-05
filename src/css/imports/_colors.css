@@ -40,6 +40,10 @@
   background-color: var(--primary);
 }
 
+.bg-primary-alpha {
+  background-color: var(--primaryAlpha);
+}
+
 .bg-highlight {
   background-color: var(--highlight);
 }
