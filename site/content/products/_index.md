@@ -6,32 +6,32 @@ description: 'Create new type of museum, museum on demand. '
 intro:
   blurbs:
     - image: /img/ml_20191223_16.29.19.jpg
-      text: >
-        Product feedback research - Create quick product research with eye
-        tracking report providing points of interest and user attention
-        analytics.
-    - image: /img/ml_20191223_16.38.50.jpg
-      text: >-
-        Real Estate -  Cut the travel costs of retail estate agents. Platform is
-        providing function for real estate presentation. Touch one of the rooms
-        and get full 360 3D view through the  Revisum port.
-    - image: /img/ml_20191223_16.41.21.jpg
-      text: >-
-        Museum on Demand - Create a new type of museum, museum on demand. Be own
-        museum curator. Museum exhibit even before visiting museum. Your
-        selected collection will wait your arrival in physical museum space.
-    - image: /img/glacier.jpg
       text: >-
         Education - Make own classrooms by uploading and editing education
         content. Edit descriptions, eye triggered hints, add sounds, configure
         item rotation, scaling and texts. Set Item collections, and order of
         appearance in the physical space. Use analytics to analyse interest from
         your students.
+    - image: /img/ml_20191223_16.38.50.jpg
+      text: >-
+        Real Estate - Cut the travel costs of retail estate agents with Mixed
+        reality real estate presentation. Touch one of the rooms on the floor
+        plan and get full 360 3D view through the Revisum port.
+    - image: /img/ml_20191223_16.41.21.jpg
+      text: >-
+        Museum on Demand - Create a new type of museum, museum on demand. Be own
+        museum curator. Select museum exhibit before visiting museum. selected
+        collection will wait your arrival in the physical museum space.
+    - image: /img/glacier.jpg
+      text: >-
+        Product feedback research - Create quick product research with eye
+        tracking report providing points of interest and user attention
+        analytics.
     - image: /img/ml_20191223_16.31.42.jpg
       text: >-
         Tourism - Create innovative virtual tour blending distant reality
-        seamlessly into the physical environment, allowing full 360 3Ddegree
-        remote scene exploration, optimized for the mixed reality glasses. 
+        seamlessly into the physical environment, allowing full 360 3D remote
+        scene exploration, optimized for the mixed reality glasses. 
   heading: Create and deploy.
   description: |-
 
@@ -64,7 +64,7 @@ testimonials:
       generating a greater understanding of them.
 full_image: /img/capture2.jpg
 pricing:
-  heading: Interested? Become our supporter or partner!
+  heading: Interested? Contact us!
   description: >-
     We left POC project phase and just hit long go-to-market road. We are
     looking for supporters and partners - feel free to contact us. We answer
