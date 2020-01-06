@@ -31,10 +31,9 @@ intro:
       text: >-
         Tourism - Create innovative virtual tour blending distant reality
         seamlessly into the physical environment, allowing full 360 3D remote
-        scene exploration, optimized for the mixed reality glasses. 
+        scene exploration, optimized for the mixed reality glasses.
   heading: Create and deploy.
   description: |-
-
     Create innovative showcases in Mixed reality using the Revisum XR platform.
 main:
   heading: Product showcase
@@ -71,4 +70,3 @@ pricing:
     every email in 24 hours.
   plans: []
 ---
-
