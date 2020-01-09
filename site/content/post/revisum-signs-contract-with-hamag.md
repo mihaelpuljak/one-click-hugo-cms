@@ -1,6 +1,6 @@
 ---
 title: Revisum signs contract with HAMAG
-date: 2010-01-09T19:59:00.000Z
+date: 2017-12-07T12:39:00.000Z
 description: >-
   Today Revisum signed contract with HAMAG to research feasibility and make a
   proof of concept project in new media Mixed Reality. We were happy to be
