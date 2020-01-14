@@ -65,8 +65,6 @@ full_image: /img/capture2.jpg
 pricing:
   heading: Interested? Contact us!
   description: >-
-    We left POC project phase and just hit long go-to-market road. We are
-    looking for supporters and partners - feel free to contact us. We answer
-    every email in 24 hours.
+    We left POC project phase and just hit long go-to-market road. Be our supporter and partner - feel free to contact us.
   plans: []
 ---
