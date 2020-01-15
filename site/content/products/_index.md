@@ -33,8 +33,7 @@ intro:
         seamlessly into the physical environment, allowing full 360 3D remote
         scene exploration, optimized for the mixed reality glasses.
   heading: Create and deploy.
-  description: |-
-    Create innovative showcases in Mixed reality using the Revisum XR platform.
+  description: Create innovative showcases in Mixed reality using the Revisum XR platform.
 main:
   heading: Product showcase
   description: >-
@@ -63,8 +62,27 @@ testimonials:
       generating a greater understanding of them.
 full_image: /img/capture2.jpg
 pricing:
-  heading: Interested? Contact us!
+  heading: Interested? Contact us.
   description: >-
-    We left POC project phase and just hit long go-to-market road. Be our supporter and partner - feel free to contact us.
-  plans: []
+    We left POC project phase and just hit long go-to-market road. Be our
+    supporter and partner - feel free to contact us.
+  plans:
+    - description: Rental and consulting.
+      items:
+        - We offer rental of the next generation of XR hardware
+      plan: Equipment rental + consulting
+      price: call.
+    - description: 3D scanning.
+      items:
+        - Offering 3D modelling and scanning for your showcase.
+      plan: Building your items + consulting
+      price: call.
+    - description: Developing
+      items:
+        - >-
+          We will develop custom solution for you and integrate it with your own
+          systems.
+      plan: Complete solution including hardware
+      price: call
 ---
+
