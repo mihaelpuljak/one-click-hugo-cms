@@ -68,12 +68,13 @@ pricing:
     supporter and partner - feel free to contact us.
   plans:
     - description: >-
-        If you want to start something new and on your own feel free to reach
-        us, we are there to help.
+        If you want to start something new free to reach us, we are there to
+        help.
       items:
-        - We offer consulting and rental of the next generation of XR hardware
+        - 'We offer consulting and rental of the next generation of XR hardware:'
         - Magic Leap
         - Hololens 2
+        - Mobile AR
       plan: Consulting
       price: call.
     - description: If you need to scan your own item collection we are there to help.
@@ -85,10 +86,9 @@ pricing:
       price: call.
     - description: We will develop custom solution and integrate it with your systems.
       items:
-        - 'Offering full turnkey XR Solutions using latest hardware: Magic Leap'
-        - Hololens
-        - NReal
-        - Mobile AR
+        - Offering full turnkey XR Solutions targetting latest hardware
+        - Working along with you from kick-start to delivery of your project.
+        - Remote collaboration.
       plan: Development
       price: call.
 ---
