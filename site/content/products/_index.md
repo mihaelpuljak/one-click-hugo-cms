@@ -67,19 +67,28 @@ pricing:
     We left POC project phase and just hit long go-to-market road. Be our
     supporter and partner - feel free to contact us.
   plans:
-    - description: Rental
+    - description: >-
+        If you want to start something new and on your own feel free to reach
+        us, we are there to help.
       items:
-        - We offer rental of the next generation of XR hardware
+        - We offer consulting and rental of the next generation of XR hardware
+        - Magic Leap
+        - Hololens 2
       plan: Consulting
       price: call.
-    - description: 3D scanning.
+    - description: If you need to scan your own item collection we are there to help.
       items:
         - Offering 3D modelling and scanning for your showcase.
-      plan: Integration
+        - Step by step integrations
+        - Using our or your hardware.
+      plan: 3D scanning
       price: call.
-    - description: Developing
+    - description: We will develop custom solution and integrate it with your systems.
       items:
-        - We will make a custom solution for you.
+        - 'Offering full turnkey XR Solutions using latest hardware: Magic Leap'
+        - Hololens
+        - NReal
+        - Mobile AR
       plan: Development
       price: call.
 ---
