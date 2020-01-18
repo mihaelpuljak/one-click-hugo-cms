@@ -41,7 +41,7 @@ main:
     using the Revisum XR platform.  If you want to present a new line of
     products, it is possible to create reports where each user spent most of the
     time (per product and per point of interest) Points of interests are areas
-    that are predefined for each product.
+    that are predefined for each product. 
   image1:
     alt: 'A close-up '
     image: /img/ml_20191223_16.29.36.jpg
@@ -67,22 +67,29 @@ pricing:
     We left POC project phase and just hit long go-to-market road. Be our
     supporter and partner - feel free to contact us.
   plans:
-    - description: Rental and consulting.
+    - description: >-
+        If you want to start something new free to reach us, we are there to
+        help.
       items:
-        - We offer rental of the next generation of XR hardware
-      plan: Equipment rental + consulting
+        - 'We offer consulting and rental of the next generation of XR hardware:'
+        - Magic Leap
+        - Hololens 2
+        - Mobile AR
+      plan: Consulting
       price: call.
-    - description: 3D scanning.
+    - description: If you need to scan your own item collection we are there to help.
       items:
         - Offering 3D modelling and scanning for your showcase.
-      plan: Building your items + consulting
+        - Step by step integrations
+        - Using our or your hardware.
+      plan: 3D scanning
       price: call.
-    - description: Developing
+    - description: We will develop custom solution and integrate it with your systems.
       items:
-        - >-
-          We will develop custom solution for you and integrate it with your own
-          systems.
-      plan: Complete solution including hardware
-      price: call
+        - Offering full turnkey XR Solutions targetting latest hardware
+        - Working along with you from kick-start to delivery of your project.
+        - Remote collaboration.
+      plan: Development
+      price: call.
 ---
 
