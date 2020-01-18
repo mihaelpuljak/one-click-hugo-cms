@@ -24,7 +24,7 @@ products:
       Holograms, Hand triggered item scaling, rotation. Teleports into slices of
       distant digital realms.
   - image: /img/inter2.jpg
-    text: >2-
+    text: >-
 
 
       RevisumXR Port - Our mixed reality teleport is inovative solution which
@@ -37,5 +37,6 @@ products:
       height and taking optimal position as user explores space.
 values:
   heading: Explore product features
-  text: Click to explore extended list of product features.
+  text: Check extended list of the innovative product features.
 ---
+
