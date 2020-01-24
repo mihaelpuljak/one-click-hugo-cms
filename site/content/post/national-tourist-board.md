@@ -1,7 +1,7 @@
 ---
-title: 'National Tourist Board '
+title: 'Revisum XR tested at National Tourist Board '
 date: 2019-10-24T22:17:42.621Z
-description: 'Revisum XR was used at Croatian National Tourist Board Brela. '
+description: 'Revisum XR was used at Croatian National Tourist Board Brela event. '
 image: /img/capture11.jpg
 ---
-At the event concept was tested by multiple attendees and feedback was excellent. The valuable feedback was provided which we will use for the further improvement.
+The prototype was successfully tested with multiple event attendees and it will be used as a good base for a further pilot product improvement.
