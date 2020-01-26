@@ -32,6 +32,11 @@ intro:
         Tourism - Create innovative virtual tour blending distant reality
         seamlessly into the physical environment, allowing full 360 3D remote
         scene exploration, optimized for the mixed reality glasses.
+    - image: /img/xrkidney.png
+      text: >-
+        Revisum XR could help transforming medical education by introducing
+        on-demand learning, remote access to educational materials, and
+        objective evaluation
   heading: Create and deploy.
   description: Create innovative showcases in Mixed reality using the Revisum XR platform.
 main:
