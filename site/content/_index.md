@@ -4,11 +4,11 @@ subtitle: Innovative and rapid XR showcases
 image: /img/capture2.jpg
 blurb:
   heading: Welcome!
-  text: >-
+  text: >
     RevisumXR is the disruptive mixed reality platform for rapid production and
     distribution of innovative showcases. Get digital reality into good old user
     environment - and quickly build fun product, retail estate, training,
-    tourist and museums showcases.
+    tourist and museums showcases!
 intro:
   heading: Why Revisum XR?
   text: >-
